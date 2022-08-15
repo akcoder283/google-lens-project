@@ -1,0 +1,30 @@
+body{
+background-color: aqua;
+text-align: center;
+}
+ol h5{
+    background-color: azure;
+    padding: 13px;
+    border-radius: 20px;
+}
+span{
+    color: black;
+    font-size: 16px;
+}
+li img{
+    border-radius: 20px;
+}
+b{
+    color: black;
+}
+.result{
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border:20px solid black;
+}
+.heading img{
+    width: 250px;
+    
+}
